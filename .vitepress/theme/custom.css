@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@400;500;600;700&display=swap');
+
+.VPDoc.has-aside .aside {
+  display: none !important;
+}
+
+.VPDoc.has-aside .content {
+  max-width: 100% !important;
+  padding-right: 0 !important;
+}
+
+:root.dark .nav { background: var(--bg-dark); }
+:root:not(.dark) .nav { background: #ffffff; }
+
+:root {
+  --vp-font-family-base: 'Saira', sans-serif;
+
+  --vp-c-brand-1: #e85d2f;
+  --vp-c-brand-2: #d44e22;
+  --vp-c-brand-3: #c0421a;
+
+  --bg-darkest: #0a0c12;
+  --bg-dark: #0f1117;
+  --bg-medium: #13151f;
+  --bg-light: #1a1d27;
+
+  --text-white: #fff;
+  --text-bright: rgba(255,255,255,0.75);
+  --text-light: rgba(255,255,255,0.65);
+  --text-body: rgba(255,255,255,0.55);
+  --text-medium: rgba(255,255,255,0.5);
+  --text-subtle: rgba(255,255,255,0.45);
+  --text-dim: rgba(255,255,255,0.4);
+  --text-muted: rgba(255,255,255,0.35);
+
+  --border-faint: rgba(255,255,255,0.06);
+  --border-subtle: rgba(255,255,255,0.08);
+  --border-muted: rgba(255,255,255,0.15);
+  --border-visible: rgba(255,255,255,0.2);
+
+  --brand-faint: rgba(232,93,47,0.08);
+  --brand-border-light: rgba(232,93,47,0.2);
+  --brand-border: rgba(232,93,47,0.3);
+}

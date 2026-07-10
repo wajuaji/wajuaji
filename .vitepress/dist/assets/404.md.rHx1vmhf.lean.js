@@ -1,0 +1,1 @@
+import{_ as t,C as o,o as a,c as n,E as r}from"./chunks/framework.CgGIfgMt.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"page"},"headers":[],"relativePath":"404.md","filePath":"404.md"}'),s={name:"404.md"};function c(p,_,d,l,m,i){const e=o("NotFound");return a(),n("div",null,[r(e)])}const h=t(s,[["render",c]]);export{u as __pageData,h as default};
