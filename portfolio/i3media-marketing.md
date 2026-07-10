@@ -7,7 +7,7 @@ client: i3 Media Group
 year: 2026
 service: Custom Software
 live: https://i3mediagroup.com
-image: ../assets/i3mediagroup-marketing-s1.png
+image: /assets/i3mediagroup-marketing-s1.png
 ---
 
 <CaseStudyLayout>

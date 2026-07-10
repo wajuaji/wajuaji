@@ -7,7 +7,7 @@ client: Jitumoto Animations
 year: 2025
 service: Custom Software
 live: https://jitumoto.com
-image: ../assets/jitumoto-marketing-s1.png
+image: /assets/jitumoto-marketing-s1.png
 ---
 
 <CaseStudyLayout>

@@ -7,7 +7,7 @@ client: Rise Inspection Services
 year: 2024
 service: Custom Software
 live: https://dashboard.gateway-rise.com
-image: ../assets/riseinspections-s1.png
+image: /assets/riseinspections-s1.png
 ---
 
 <CaseStudyLayout>

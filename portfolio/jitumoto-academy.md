@@ -7,7 +7,7 @@ client: Jitumoto Animations
 year: 2025
 service: Custom Software · M-Pesa Integration
 live: https://academy.jitumoto.com
-image: ../assets/jitumoto-academy-s1.png
+image: /assets/jitumoto-academy-s1.png
 ---
 
 <CaseStudyLayout>
